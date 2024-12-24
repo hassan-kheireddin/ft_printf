@@ -47,7 +47,7 @@ The project focuses on:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ft_printf.git
+   git clone https://github.com/hassan-kheireddin/ft_printf.git
    ```
 2. Enter the folder:
    ```bash
